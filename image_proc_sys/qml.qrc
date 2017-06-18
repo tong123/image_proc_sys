@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>CustomMenuBar.qml</file>
+    </qresource>
+</RCC>
