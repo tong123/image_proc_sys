@@ -1,7 +1,8 @@
-#include "image-operator.h"
+﻿#include "image-operator.h"
 
 ImageOperator::ImageOperator(QObject *parent) : QObject(parent)
 {
 
 }
+
 

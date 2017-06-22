@@ -1,5 +1,6 @@
 <RCC>
     <qresource prefix="/">
         <file>position.irp.jpg</file>
+        <file>sun.jpg</file>
     </qresource>
 </RCC>

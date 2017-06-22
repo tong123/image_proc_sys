@@ -5,8 +5,8 @@ import QtQuick.Dialogs 1.2
 import ImageItem 1.0
 ApplicationWindow {
     visible: true
-    width: 850
-    height: 480
+    width: 1500
+    height: 600
 
     menuBar:CustomMenuBar{
 
@@ -15,12 +15,12 @@ ApplicationWindow {
         anchors.centerIn: parent
         spacing: 20
         Column {
-            width: 400
-            height: 450
+            width: 640
+            height: 500
             spacing: 10
             Rectangle {
-                width: 400
-                height: 400
+                width: 640
+                height: 480
                 border.width: 1
                 border.color: "black"
                 Image{
@@ -35,12 +35,12 @@ ApplicationWindow {
             }
         }
         Column {
-            width: 400
-            height: 450
+            width: 640
+            height: 500
             spacing: 10
             Rectangle {
-                width: 400
-                height: 400
+                width: 640
+                height: 480
                 border.width: 1
                 border.color: "black"
                 ImageItem {
